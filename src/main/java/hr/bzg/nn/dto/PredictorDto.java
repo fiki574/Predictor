@@ -1,4 +1,4 @@
-package predictor;
+package hr.bzg.nn.dto;
 
 import java.util.Objects;
 
